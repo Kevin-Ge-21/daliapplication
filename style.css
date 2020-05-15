@@ -89,42 +89,8 @@ head{
     display: flex;
     justify-content: center;
 }
-footer{
-    color: black;
-    font-family: 'Alegreya Sans', sans-serif;
-}
 
-form{
-    color: black;
-    font-family: 'Alegreya Sans', sans-serif;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-ul {
-    color: black;
-    list-style-type: none;
-    font-family: 'Alegreya Sans', sans-serif;
-    text-decoration: none;
-    display: flex;
 
-  }
-
-li{
-    color: black;
-    text-decoration: none;
-}
-
-.navlink:hover{
-  color: purple;
-}
-
-.foottext{
-  color: black;
-  font-size: 80%;
-  font-family: 'Alegreya Sans', sans-serif;
-  text-align: center;
-}
 #border{
   border-radius: 25px;
   background:black;
@@ -136,28 +102,6 @@ li{
   color: white;
 }
 
-.buttonexperiment{
-  color: white;
-  font-weight: lighter;
-  background-color:pink;
-  border: none;
-  margin: auto;
-  padding: 10px;
-  width: 400px;
-  font-size: 30px;
-  cursor: pointer;
-  align-items: center;
-  justify-content: center;
-}
-
-.emailsubmission{
-  padding: 10px;
-  margin: auto;
-  margin-bottom: 10px;
-  width: 380px;
-  font-size: 30px;
-  color: black;
-}
 
 .center{
   justify-content: center;
